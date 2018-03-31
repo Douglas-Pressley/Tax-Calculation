@@ -1,0 +1,8 @@
+D:\Chapter8\TaxCalculation\TaxCalculation\bin\Debug\netcoreapp1.1\TaxCalculation.deps.json
+D:\Chapter8\TaxCalculation\TaxCalculation\bin\Debug\netcoreapp1.1\TaxCalculation.runtimeconfig.json
+D:\Chapter8\TaxCalculation\TaxCalculation\bin\Debug\netcoreapp1.1\TaxCalculation.runtimeconfig.dev.json
+D:\Chapter8\TaxCalculation\TaxCalculation\bin\Debug\netcoreapp1.1\TaxCalculation.dll
+D:\Chapter8\TaxCalculation\TaxCalculation\bin\Debug\netcoreapp1.1\TaxCalculation.pdb
+D:\Chapter8\TaxCalculation\TaxCalculation\obj\Debug\netcoreapp1.1\TaxCalculation.AssemblyInfo.cs
+D:\Chapter8\TaxCalculation\TaxCalculation\obj\Debug\netcoreapp1.1\TaxCalculation.dll
+D:\Chapter8\TaxCalculation\TaxCalculation\obj\Debug\netcoreapp1.1\TaxCalculation.pdb
